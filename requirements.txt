@@ -1,0 +1,4 @@
+PyQt6>=6.4.0
+PyQt6-Qt6>=6.4.0
+# Optional, for better sound support:
+# PyQt6-Qt6-Multimedia is usually included with PyQt6

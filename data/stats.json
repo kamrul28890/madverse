@@ -1,0 +1,58 @@
+{
+  "total_stories": 2,
+  "stories_saved": 0,
+  "regenerations": 1,
+  "genres_played": [
+    "horror"
+  ],
+  "genre_counts": {
+    "horror": 2
+  },
+  "all_words_used": [
+    "kamrul",
+    "easha",
+    "studied",
+    "running",
+    "horrible",
+    "wonderful",
+    "shifu",
+    "lafayette",
+    "happy",
+    "jhinga la la",
+    "dupatta",
+    "28",
+    "kamrul",
+    "easha",
+    "studied",
+    "running",
+    "horrible",
+    "wonderful",
+    "shifu",
+    "lafayette",
+    "happy",
+    "jhinga la la",
+    "dupatta",
+    "28"
+  ],
+  "word_frequency": {
+    "kamrul": 2,
+    "easha": 2,
+    "studied": 2,
+    "running": 2,
+    "horrible": 2,
+    "wonderful": 2,
+    "shifu": 2,
+    "lafayette": 2,
+    "happy": 2,
+    "jhinga la la": 2,
+    "dupatta": 2,
+    "28": 2
+  },
+  "unlocked_achievements": [
+    "first_story",
+    "same_words"
+  ],
+  "session_stories": 2,
+  "last_played": "2026-02-17T17:45:12.618084",
+  "favorite_genre": "horror"
+}
